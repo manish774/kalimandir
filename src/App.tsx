@@ -21,11 +21,14 @@ function App() {
               color: "#FF7722",
               fontSize: "40px",
               fontWeight: "bolder",
-              top: "25%",
+              top: "5%",
             }}
           >
             ॐ क्रीं कालिकायै नमः
           </div>
+        </ParallaxLayer>
+        <ParallaxLayer offset={0} speed={0.3}>
+          <div className="animation_layer parallax" id="maakalishadow"></div>
         </ParallaxLayer>
         <ParallaxLayer offset={0} speed={0.3}>
           <div className="animation_layer parallax" id="jungle1"></div>
