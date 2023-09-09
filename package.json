@@ -17,6 +17,8 @@
     "react-scripts": "5.0.1",
     "sass": "^1.66.1",
     "typescript": "^4.9.5",
+    "@react-spring/parallax": "^9.6.1",
+    "react-spring": "^9.6.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
