@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/kalimandir/static/css/main.84168b0a.css",
-    "main.js": "/kalimandir/static/js/main.b6af6921.js",
+    "main.css": "/kalimandir/static/css/main.75890dc1.css",
+    "main.js": "/kalimandir/static/js/main.bdc2f8f6.js",
     "static/js/787.728a4ef9.chunk.js": "/kalimandir/static/js/787.728a4ef9.chunk.js",
     "static/media/jungle1.png": "/kalimandir/static/media/jungle1.5ec83d96505269c854f3.png",
     "static/media/background.png": "/kalimandir/static/media/background.f8e0a3e86fb4252623af.png",
     "static/media/jungle3.png": "/kalimandir/static/media/jungle3.5350abbda455914478ee.png",
     "static/media/mountains.png": "/kalimandir/static/media/mountains.af6b8801f09352cf3f76.png",
     "static/media/man_on_mountain.png": "/kalimandir/static/media/man_on_mountain.41b59d37a39bb0b35f75.png",
+    "static/media/temple.png": "/kalimandir/static/media/temple.c812f152e139caf31ecb.png",
     "static/media/jungle4.png": "/kalimandir/static/media/jungle4.80488612344ed2683ee6.png",
     "static/media/jungle2.png": "/kalimandir/static/media/jungle2.b3f7031947988987d357.png",
     "static/media/logo_land.png": "/kalimandir/static/media/logo_land.38bc453f18c7f64bebdc.png",
     "static/media/jungle5.png": "/kalimandir/static/media/jungle5.6f841a2d5b2b021093df.png",
-    "static/media/maa-kali-shadow.png": "/kalimandir/static/media/maa-kali-shadow.fa43df6cbbe46abeaf1c.png",
     "index.html": "/kalimandir/index.html",
-    "main.84168b0a.css.map": "/kalimandir/static/css/main.84168b0a.css.map",
-    "main.b6af6921.js.map": "/kalimandir/static/js/main.b6af6921.js.map",
+    "main.75890dc1.css.map": "/kalimandir/static/css/main.75890dc1.css.map",
+    "main.bdc2f8f6.js.map": "/kalimandir/static/js/main.bdc2f8f6.js.map",
     "787.728a4ef9.chunk.js.map": "/kalimandir/static/js/787.728a4ef9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84168b0a.css",
-    "static/js/main.b6af6921.js"
+    "static/css/main.75890dc1.css",
+    "static/js/main.bdc2f8f6.js"
   ]
 }
