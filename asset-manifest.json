@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kalimandir/static/css/main.a58a0047.css",
-    "main.js": "/kalimandir/static/js/main.d16bb00c.js",
+    "main.css": "/kalimandir/static/css/main.511ff602.css",
+    "main.js": "/kalimandir/static/js/main.fdaee291.js",
     "static/js/787.728a4ef9.chunk.js": "/kalimandir/static/js/787.728a4ef9.chunk.js",
     "static/media/color-sharp.png": "/kalimandir/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/kalimandir/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -26,12 +26,12 @@
     "index.html": "/kalimandir/index.html",
     "static/media/nav-icon1.svg": "/kalimandir/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/kalimandir/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.a58a0047.css.map": "/kalimandir/static/css/main.a58a0047.css.map",
-    "main.d16bb00c.js.map": "/kalimandir/static/js/main.d16bb00c.js.map",
+    "main.511ff602.css.map": "/kalimandir/static/css/main.511ff602.css.map",
+    "main.fdaee291.js.map": "/kalimandir/static/js/main.fdaee291.js.map",
     "787.728a4ef9.chunk.js.map": "/kalimandir/static/js/787.728a4ef9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a58a0047.css",
-    "static/js/main.d16bb00c.js"
+    "static/css/main.511ff602.css",
+    "static/js/main.fdaee291.js"
   ]
 }
